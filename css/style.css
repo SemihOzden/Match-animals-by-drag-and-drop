@@ -1,0 +1,90 @@
+body{
+    margin:0px;
+}
+#container{
+    width:700px;
+    height: 500px;
+    margin: 10% auto;
+    border:1px solid black;
+
+}
+#objects{
+   width:700px;
+   height: 250px;
+   
+    
+}
+
+#fil1{
+    background-image: url("../images/fil1.svg");
+    width: 117px;
+    height: 90px;
+     
+}
+#fil2{
+    background-image: url("../images/fil2.svg");
+    width: 115px;
+    height: 89px;
+     
+}
+#fil3{
+    background-image: url("../images/fil3.svg");
+   
+    width: 115px;
+    height: 85px;
+      
+}
+#fil4{
+    background-image: url("../images/fil4.svg");
+    width: 120px;
+    height: 90px;
+      
+}
+#fil5{
+    background-image: url("../images/fil5.svg");
+    width: 92px;
+    height: 92px;
+     
+}
+
+
+#targetShadows{
+    width:700px;
+    height: 250px;
+    
+}
+
+
+
+#filShadow1{
+    background-image: url("../images/fil1_golge.svg");
+    width: 92px;
+    height: 92px;
+      
+}
+#filShadow2{
+    background-image: url("../images/fil2_golge.svg");
+    width: 118px;
+    height: 88px;
+    
+}
+#filShadow3{
+    background-image: url("../images/fil3_golge.svg");
+   
+    width: 115px;
+    height: 90px;
+     
+}
+#filShadow4{
+    background-image: url("../images/fil4_golge.svg");
+    width: 120px;
+    height: 90px;
+   
+}
+#filShadow5{
+    background-image: url("../images/fil5_golge.svg");
+    width: 122px;
+    height: 95px;
+     
+}
+
